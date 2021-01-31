@@ -1,5 +1,5 @@
 <?php
-include "Rectangle-class.php";
+include "Rectangle.php";
 
 $width  = 10;
 $height = 20;
